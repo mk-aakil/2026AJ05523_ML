@@ -1,0 +1,23 @@
+
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Local environment files
+.env
+.env.*
+
+# Editor and OS files
+.vscode/
+.DS_Store
+
+# Generated output
+.ipynb_checkpoints/
+.pytest_cache/
+
+# Future local training artifacts
+data/processed/
