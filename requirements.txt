@@ -1,3 +1,10 @@
 pandas
 numpy
 ucimlrepo
+pandas
+numpy
+ucimlrepo
+jupyter
+ipykernel
+matplotlib
+seaborn
